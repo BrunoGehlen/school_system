@@ -1,0 +1,6 @@
+D:\Glitch Garden\source\Repos\school_system\school_system\school_system\school_system\bin\Debug\school_system.exe.config
+D:\Glitch Garden\source\Repos\school_system\school_system\school_system\school_system\bin\Debug\school_system.exe
+D:\Glitch Garden\source\Repos\school_system\school_system\school_system\school_system\bin\Debug\school_system.pdb
+D:\Glitch Garden\source\Repos\school_system\school_system\school_system\school_system\obj\Debug\school_system.csprojAssemblyReference.cache
+D:\Glitch Garden\source\Repos\school_system\school_system\school_system\school_system\obj\Debug\school_system.exe
+D:\Glitch Garden\source\Repos\school_system\school_system\school_system\school_system\obj\Debug\school_system.pdb
